@@ -1,0 +1,81 @@
+{
+	"nav": {
+		"home": "Home",
+		"education": "Education",
+		"experience": "Experience",
+		"skills": "Skills",
+		"langBtn": "Magyar"
+	},
+	"header": {
+		"name": "Ágnes Bács-Ódry"
+	},
+	"introduction": "Hello, I'm Ágnes Bács-Ódry, an english teacher located in Szeged.",
+	"contact": {
+		"email": "odryagnes@yahoo.com",
+		"linkedin": "https://www.linkedin.com/in/agnes-bacs-odry"
+	},
+	"education": {
+		"title": "Education",
+		"list": [
+			{
+				"degree": "MA English studies and EFL",
+				"institution": "University of Szeged, 1996-2001"
+			},
+			{
+				"degree": "Post-graduate degree in translation and interpreting (HU-EN)",
+				"institution": "University of Szeged, 2002-2004"
+			},
+			{
+				"degree": "PhD studies – English Applied Linguistics",
+				"institution": "University of Szeged, 2004-2007"
+			}
+		]
+	},
+	"experience": {
+		"title": "Experience",
+		"list": [
+			{
+				"role": "Freelance translator",
+				"period": "2021-",
+				"details": [
+					"Translated documents mainly for Hungarian translation agencies",
+					"Handled documents of various extensions and used a CAT tool (MemoQ)",
+					"Working languages: Hungarian, English, Croatian, Serbian",
+					"Ran a tiny business as a self-employed",
+					"Has done translations since 2004"
+				]
+			},
+			{
+				"role": "Teacher - English as a Foreign language",
+				"period": "2006-2021",
+				"institution": "University of Novi Sad, Hungarian Language Teacher Training Faculty in Subotica",
+				"details": [
+					"Participated in linguistic research projects",
+					"Wrote articles, participated at conferences",
+					"Taught English as a foreign language (levels A2-C1) and EFL methodology",
+					"Designed curricula, administrated exams",
+					"Completed translating and proofreading tasks for the Faculty (e.g. project documents, articles, conference papers)"
+				]
+			},
+			{
+				"role": "PhD student – Applied linguistics",
+				"period": "2004–2007",
+				"institution": "University of Szeged",
+				"details": [
+					"Trained in doing qualitative and quantitative linguistic research",
+					"Did linguistic research",
+					"Participated in an international linguistic research project (\u201eLINEE \u2013 Languages in a Network of European Excellence\u201d)",
+					"Wrote articles, participated at conferences",
+					"Taught undergraduate students (Writing Skills, Reading Skills)"
+				]
+			}
+		]
+	},
+	"skills": {
+		"title": "Skills",
+		"list": ["MemoQ user", "Touch typing", "Organising", "Teaching"]
+	},
+	"footer": {
+		"copyright": "© Ágnes Bács-Ódry"
+	}
+}

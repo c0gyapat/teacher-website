@@ -1,0 +1,81 @@
+{
+	"nav": {
+		"home": "Főoldal",
+		"education": "Tanulmányok",
+		"experience": "Tapasztalat",
+		"skills": "Készségek",
+		"langBtn": "English"
+	},
+	"header": {
+		"name": "Bács-Ódry Ágnes"
+	},
+	"introduction": "Üdvözlöm, Bács-Ódry Ágnes vagyok, angoltanár Szegeden.",
+	"contact": {
+		"email": "odryagnes@yahoo.com",
+		"linkedin": "https://www.linkedin.com/in/agnes-bacs-odry"
+	},
+	"education": {
+		"title": "Tanulmányok",
+		"list": [
+			{
+				"degree": "Anglisztika MA és angol mint idegen nyelv szak",
+				"institution": "Szegedi Tudományegyetem, 1996-2001"
+			},
+			{
+				"degree": "Posztgraduális oklevél fordításból és tolmácsolásból (HU-EN)",
+				"institution": "Szegedi Tudományegyetem, 2002-2004"
+			},
+			{
+				"degree": "PhD tanulmányok – Angol alkalmazott nyelvészet",
+				"institution": "Szegedi Tudományegyetem, 2004-2007"
+			}
+		]
+	},
+	"experience": {
+		"title": "Tapasztalat",
+		"list": [
+			{
+				"role": "Szabadúszó fordító",
+				"period": "2021-",
+				"details": [
+					"Főként magyar fordítóirodáknak fordítottam dokumentumokat",
+					"Különböző típusú dokumentumokat kezeltem és CAT eszközt (MemoQ) használtam",
+					"Munkanyelvek: magyar, angol, horvát, szerb",
+					"Egyéni vállalkozóként kisvállalkozást vezettem",
+					"2004 óta fordítok"
+				]
+			},
+			{
+				"role": "Tanár – angol mint idegen nyelv",
+				"period": "2006-2021",
+				"institution": "Újvidéki Egyetem, Magyar Tannyelvű Tanítóképző Kar, Szabadka",
+				"details": [
+					"Nyelvészeti kutatási projektekben vettem részt",
+					"Cikkeket írtam, konferenciákon vettem részt",
+					"Angolt (A2-C1 szintek) és angol módszertant tanítottam",
+					"Tanmeneteket terveztem, vizsgákat adminisztráltam",
+					"Fordítási és lektorálási feladatokat végeztem a kar számára (pl. projekt dokumentumok, cikkek, konferenciaanyagok)"
+				]
+			},
+			{
+				"role": "PhD hallgató – alkalmazott nyelvészet",
+				"period": "2004–2007",
+				"institution": "Szegedi Tudományegyetem",
+				"details": [
+					"Kvalitatív és kvantitatív nyelvészeti kutatásban szereztem jártasságot",
+					"Nyelvészeti kutatásokat végeztem",
+					"Nemzetközi nyelvészeti kutatási projektben vettem részt (\u201eLINEE – Languages in a Network of European Excellence\u201d)",
+					"Cikkeket írtam, konferenciákon vettem részt",
+					"Egyetemi hallgatókat tanítottam (íráskészség, olvasáskészség)"
+				]
+			}
+		]
+	},
+	"skills": {
+		"title": "Készségek",
+		"list": ["MemoQ felhasználó", "Gépírás", "Szervezés", "Tanítás"]
+	},
+	"footer": {
+		"copyright": "© Bács-Ódry Ágnes"
+	}
+}
